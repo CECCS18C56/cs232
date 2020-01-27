@@ -1,0 +1,49 @@
+Script started on Monday 27 January 2020 09:29:57 AM IST
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat [K> abc.txt
+anmals    imals
+^Z
+[1]+  Stopped                 cat > abc.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat> abc.txt[1Prmdir cs232cat> abc.txt[1Pabc.txt[1Pabc.txt abc.txt
+animals
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat> def.txt
+cat dof g 
+^Z
+[2]+  Stopped                 cat > def.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat> def.txt[1Pdef.txt[1Pdef.txt def.txt
+cat dog 
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ ls abc.txt
+abc.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ ls abc.txt[C[1P.txt[1P.txt[1P.txtd.txte.txtf.txt
+def.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ ls def.txtabc.txtcat def.txt
+cat dog 
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat def.txt[1Pls[C[C[C[C[C[C[C[Cabc.txtcat def.txt> def.txt[1P abc.txt
+animals
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ ls
+abc.txt  def.txt  work.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ ls -l
+total 8
+-rw-rw-r-- 1 ceclab2 ceclab2 8 Jan 27 09:30 abc.txt
+-rw-rw-r-- 1 ceclab2 ceclab2 9 Jan 27 09:31 def.txt
+-rw-rw-r-- 1 ceclab2 ceclab2 0 Jan 27 09:29 work.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ sort 
+a a ^Z
+[3]+  Stopped                 sort
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ sort [Kpaste a.txt def.txt[1@b[1@c
+animals	cat dog 
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ who [Kami
+ceclab2
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ who
+ceclab2  tty7         2020-01-27 09:09 (:0)
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ sort -n abc.txt
+animals
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ sort -n def.txt
+cat dog 
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ join abc.txt def.txt
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat abc.txt
+animals
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ cat abc.txtjoin abc.txt def.txt, def.txt[C[C[C[C[C[C[C[C//
+join: abc.txt,: No such file or directory
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ 
+]0;ceclab2@ceclab2: ~/ceccs18c56/cs232/2701[01;32mceclab2@ceclab2[00m:[01;34m~/ceccs18c56/cs232/2701[00m$ u n[K[K[Kjoin abc.txt, def.txt//[C[C[12Pcat abc.txtjoin abc.txt def.txt[5Psort -n[C[C[C[C[C[C[C[Cabc.txtdef.txt[5@join abc.txt[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K-1 2 -2 3 abc.txt def.txt
+ an

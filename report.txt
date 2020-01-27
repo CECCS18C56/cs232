@@ -1,0 +1,24 @@
+CEC CS 18 	C56
+Sona Sebastian
+
+--------------------------------
+#1: LINUX COMMAND FAMILIARISATION
+---------------------------------
+Command/Shell script/Program name
+ 
+cat,ls,whoami,who,sort,join,paste
+workfile : work.txt
+reportfile : report.txt
+
+Input: 
+---------------
+abc.txt
+def.txt
+--------------------------------
+Output:  
+
+commands executed successfully
+-------------------
+Remarks : 
+ 
+LINUX commands familiarised
