@@ -1,0 +1,24 @@
+Script started on Mon 03 Feb 2020 10:03:20 PM IST
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ scp abc.txt cs18c56@19 2.168.0.30 : 0302
+0302: No such file or directory
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ scp abc.txt cs18c56@1922.168.0.30 : 0302[1P0302[1P:0302
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c56@192.168.0.30's password: 
+Permission denied, please try again.
+cs18c56@192.168.0.30's password: 
+abc.txt                                         0%    0     0.0KB/s   --:-- ETAabc.txt                                       100%   32     0.0KB/s   00:00    
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ mkdir test
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ cd test
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302/testguest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302/test$ cat >aa.txt
+cat
+dog
+cow
+goat
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302/testguest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302/test$ exit
+exit
+
+Script done on Mon 03 Feb 2020 10:09:43 PM IST

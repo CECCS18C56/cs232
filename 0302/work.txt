@@ -1,0 +1,43 @@
+Script started on Mon 03 Feb 2020 10:16:31 PM IST
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ ssh exitcat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs18c56@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+402 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Feb  3 09:44:33 2020 from 192.168.0.205
+$ ls
+0302  examples.desktop
+$ cd /
+$ ls
+bin    core  home	 lib32	     media  proc  sbin	sys  var
+boot   dev   initrd.img  lib64	     mnt    root  snap	tmp  vmlinuz
+cdrom  etc   lib	 lost+found  opt    run   srv	usr
+$ exit
+Connection to 192.168.0.30 closed.
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ ssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+apple
+orange
+banana
+mango
+]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ cat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pexitcd ceccs18c56exit[Kcat >abc.txt[8Pexit
+Script done on Mon 03 Feb 2020 10:23:09 PM IST
