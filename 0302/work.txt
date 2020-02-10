@@ -1,43 +1,68 @@
-Script started on Mon 03 Feb 2020 10:16:31 PM IST
-]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ ssh exitcat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330
-.
-              |
-.  .    . .-. | .-..-. .--.--. .-.
- \  \  / (.-' |(  (   )|  |  |(.-'
-  `' `'   `--'` `-'`-' '  '  ` `--'
-cs18c56@192.168.0.30's password: 
-Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+Script started on Monday 10 February 2020 03:31:58 PM IST
+]0;s4c2@lab2-AcerPower-Series: ~/ceccs18c56/cs232/1002s4c2@lab2-AcerPower-Series:~/ceccs18c56/cs232/1002$ ifconfig -a
+eth0      Link encap:Ethernet  HWaddr 00:15:58:19:2e:20  
+          inet addr:192.168.0.144  Bcast:192.168.1.255  Mask:255.255.254.0
+          inet6 addr: fe80::215:58ff:fe19:2e20/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:45974 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:11458 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:21454225 (21.4 MB)  TX bytes:1775536 (1.7 MB)
+          Interrupt:17 
 
- * Website:  http://elementary.io/
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:204 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:204 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:14668 (14.6 KB)  TX bytes:14668 (14.6 KB)
 
-402 packages can be updated.
-0 updates are security updates.
-
-Last login: Mon Feb  3 09:44:33 2020 from 192.168.0.205
-$ ls
-0302  examples.desktop
-$ cd /
-$ ls
-bin    core  home	 lib32	     media  proc  sbin	sys  var
-boot   dev   initrd.img  lib64	     mnt    root  snap	tmp  vmlinuz
-cdrom  etc   lib	 lost+found  opt    run   srv	usr
-$ exit
-Connection to 192.168.0.30 closed.
-]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ ssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-apple
-orange
-banana
-mango
-]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ cat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ exit[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat >aa.txt[4Pd test[3@mkdir[C[C[C[C[Cscp abc.txt cs18c56@1922.168.0.30:0302 : 0302[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [C[C[7Pript work.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pcd 0302[3@mkdir[C[C[C[C[Cscript work.txt[7Pcd cs232[3@mkdir[C[C[C[C[C[Ccd ceccs18c56[3@mkdir[C[C[C[C[C[C[C[C[C[C[C[3Pcd[C[C[C[C[C[C[C[C[C[C[Cexit[Kcat >abc.txtssh cs18c56@192.168.0.330[A]0;guest-9Bv4i7@lab2-Veriton-Series: ~/ceccs18c56/cs232/0302guest-9Bv4i7@lab2-Veriton-Series:~/ceccs18c56/cs232/0302$ [10Pcat >abc.txt
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[8Pexitcd ceccs18c56exit[Kcat >abc.txt[8Pexit
-Script done on Mon 03 Feb 2020 10:23:09 PM IST
+]0;s4c2@lab2-AcerPower-Series: ~/ceccs18c56/cs232/1002s4c2@lab2-AcerPower-Series:~/ceccs18c56/cs232/1002$ route n[K-n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+169.254.0.0     0.0.0.0         255.255.0.0     U     1000   0        0 eth0
+192.168.0.0     0.0.0.0         255.255.254.0   U     1      0        0 eth0
+]0;s4c2@lab2-AcerPower-Series: ~/ceccs18c56/cs232/1002s4c2@lab2-AcerPower-Series:~/ceccs18c56/cs232/1002$ route add default gw 192.168 .0.2
+SIOCADDRT: Operation not permitted
+]0;s4c2@lab2-AcerPower-Series: ~/ceccs18c56/cs232/1002s4c2@lab2-AcerPower-Series:~/ceccs18c56/cs232/1002$ ping 192.168.0.2[K1
+PING 192.168.0.1 (192.168.0.1) 56(84) bytes of data.
+64 bytes from 192.168.0.1: icmp_req=1 ttl=64 time=9.69 ms
+64 bytes from 192.168.0.1: icmp_req=2 ttl=64 time=2.52 ms
+64 bytes from 192.168.0.1: icmp_req=3 ttl=64 time=2.67 ms
+64 bytes from 192.168.0.1: icmp_req=4 ttl=64 time=2.50 ms
+64 bytes from 192.168.0.1: icmp_req=5 ttl=64 time=2.37 ms
+64 bytes from 192.168.0.1: icmp_req=6 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=7 ttl=64 time=2.55 ms
+64 bytes from 192.168.0.1: icmp_req=8 ttl=64 time=2.57 ms
+64 bytes from 192.168.0.1: icmp_req=9 ttl=64 time=2.77 ms
+64 bytes from 192.168.0.1: icmp_req=10 ttl=64 time=2.56 ms
+64 bytes from 192.168.0.1: icmp_req=11 ttl=64 time=2.49 ms
+64 bytes from 192.168.0.1: icmp_req=12 ttl=64 time=2.52 ms
+64 bytes from 192.168.0.1: icmp_req=13 ttl=64 time=2.56 ms
+64 bytes from 192.168.0.1: icmp_req=14 ttl=64 time=2.51 ms
+64 bytes from 192.168.0.1: icmp_req=15 ttl=64 time=2.62 ms
+64 bytes from 192.168.0.1: icmp_req=16 ttl=64 time=2.55 ms
+64 bytes from 192.168.0.1: icmp_req=17 ttl=64 time=2.49 ms
+64 bytes from 192.168.0.1: icmp_req=18 ttl=64 time=2.44 ms
+64 bytes from 192.168.0.1: icmp_req=19 ttl=64 time=2.53 ms
+64 bytes from 192.168.0.1: icmp_req=20 ttl=64 time=2.43 ms
+64 bytes from 192.168.0.1: icmp_req=21 ttl=64 time=24.6 ms
+64 bytes from 192.168.0.1: icmp_req=22 ttl=64 time=2.55 ms
+64 bytes from 192.168.0.1: icmp_req=23 ttl=64 time=2.54 ms
+64 bytes from 192.168.0.1: icmp_req=24 ttl=64 time=2.47 ms
+64 bytes from 192.168.0.1: icmp_req=25 ttl=64 time=2.45 ms
+64 bytes from 192.168.0.1: icmp_req=26 ttl=64 time=2.51 ms
+64 bytes from 192.168.0.1: icmp_req=27 ttl=64 time=2.82 ms
+64 bytes from 192.168.0.1: icmp_req=28 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=29 ttl=64 time=3.00 ms
+64 bytes from 192.168.0.1: icmp_req=30 ttl=64 time=2.48 ms
+64 bytes from 192.168.0.1: icmp_req=31 ttl=64 time=2.50 ms
+64 bytes from 192.168.0.1: icmp_req=32 ttl=64 time=2.44 ms
+64 bytes from 192.168.0.1: icmp_req=33 ttl=64 time=2.58 ms
+64 bytes from 192.168.0.1: icmp_req=34 ttl=64 time=2.63 ms
+^Z
+[1]+  Stopped                 ping 192.168.0.1
+]0;s4c2@lab2-AcerPower-Series: ~/ceccs18c56/cs232/1002s4c2@lab2-AcerPower-Series:~/ceccs18c56/cs232/1002$ cat/etc/resolv.conf
+bash: cat/etc/reso
