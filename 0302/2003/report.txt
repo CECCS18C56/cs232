@@ -1,0 +1,30 @@
+CEC CS 18 C56 
+SONA SEBASTIAN
+
+--------------------------------
+#1: Setting up ftp server (t7)
+---------------------------------
+
+Command/Shell script/Program name
+---------------------------------
+	
+	# install ftp server
+	sudo apt-get install vsftpd
+	
+	# edit server configuration
+	sudo vim /etc/vsftpd.conf
+	
+	# connect to ftp on local server
+	fpt localhost	
+	
+	# install apache2
+	sudo apt-get install apache2
+	
+	--------------------------------
+Output: 
+	
+	# ftp server 
+	
+	# Apache http server
+
+-------------------
